@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@tatumio/tron": "^2.2.23",
-    "bip39": "^3.1.0"
+    "bip39": "^3.1.0",
+    "dotenv": "^16.3.1"
   }
 }
